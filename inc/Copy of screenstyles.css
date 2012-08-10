@@ -1,0 +1,128 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	background-color:#006699;
+}
+a {
+	text-decoration:none;
+	border-bottom:#06C dotted 1px;
+}
+#wrapper {
+	margin: 0 auto;
+	width: 922px;
+	background-color:#999966;
+}
+#header {
+	color: #333;
+	width: 800px;
+	float: left;
+	padding: 10px;
+	padding-left: 110px;
+	border: 1px solid #ccc;
+	height: 100px;
+	margin: 10px 0px 0px 0px;
+	background: #B3B38C url(/images/sm_color_logo.gif) no-repeat 4px;
+	text-align:left;
+}
+#header h1 {
+	font-family:sans-serif, serif, Georgia, "Times New Roman";
+	color:#666;
+	font-size:18px;
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+}
+#header h2 {
+	font-family:sans-serif, serif, Georgia, "Times New Roman";
+	color:#900;
+	font-size:24px;
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+}
+#leftcolumn {
+	color: #333;
+	border: 1px solid #ccc;
+	background: #D6D6C2;
+	margin: 0px 0px 0px 0px;
+	padding: 10px;
+	height: auto;
+	width: 678px;
+	float: left;
+	display:inline-block;
+}
+#leftbottom {
+	color: #333;
+	border: 1px solid #ccc;
+	background: #B3B38C;
+	margin: 0px 0px 0px 0px;
+	padding: 4px;
+	height: 60px;
+	width: 690px;
+	float: left;
+}
+#leftbottom .left {
+	display:inline;
+	float:left;
+	width:150px;
+	text-align:left;
+	padding-top:20px;
+	padding-left:10px;
+}
+#leftbottom .right {
+	display:inline;
+	float:right;
+	width:150px;
+	text-align:right;
+	padding-top:20px;
+	padding-right:10px;
+}
+#rightcolumn {
+	float: right;
+	color: #333;
+	border: 1px solid #ccc;
+	background: #999966;
+	margin: auto;
+	padding: 10px;
+	height: auto;
+	width: 200px;
+	display: inline-block;
+	text-align:center;
+}
+#rightcolumn h1 {
+	font-family:sans-serif, serif, Georgia, "Times New Roman";
+	font-size:14px;
+	color:#039;
+}
+#rightcolumn .content {
+	font-weight:bold;
+	margin:0 auto;
+	padding-top:20px;
+	text-align:left;
+	width:160px;
+	line-height:2.0em;
+}
+#rightcolumn .current {
+	padding-left:20px;
+	background-image: url(/images/arrow_right.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+	color:#900;
+}
+#rightbottom {
+	float: right;
+	color: #333;
+	border: 1px solid #ccc;
+	background: #B3B38C;
+	margin: 0px 0px 0px 0px;
+	padding: 4px;
+	height: 60px;
+	width: 212px;
+	display: inline;
+	text-align:center;
+}

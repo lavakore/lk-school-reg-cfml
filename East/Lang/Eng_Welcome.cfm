@@ -1,0 +1,12 @@
+<p style="text-align:justify;">The staff at East Minico Middle School are dedicated to providing all students with the educational foundation necessary to succeed in school and life.  We work continuously to improve the educational process and provide instructionally rich academics that elevate success. To ensure your child's success, we have set high standards to meet state-established achievement goals, all of which are reflected in our comprehensive School Improvement Plan, available at the school.  As required by state and federal laws and rules, our school's progress toward meeting state achievement goals in reading, math, and language are evaluated each year and notification of the school's progress is reported to parents.  Schools not consistently meeting these goals for all students are identified for improvement.<br />
+<br />While East Minico Middle School has demonstrated strong growth towards meeting state achievement goals, our most recent achievement results indicate that we have not yet attained these goals for all students and therefore, have been identified for improvement.  Below is a list of areas in which we have been identified for improvement.</p>
+<br />
+<blockquote style="margin-left:2.0em;"><strong>Reading:</strong>  Students with Disabilities</blockquote>
+<blockquote style="margin-left:2.0em;"><strong>Math:</strong> Overall, Hispanic, Economically Disadvantaged, Students with Disabilities</blockquote><br />
+<p style="text-align:justify;">Under federal and state laws and rules, students in schools identified for improvement are eligible to apply for transfer to another school within the district that has met state academic goals. However, our district has no transfer options available at this time because both middle schools have been identified for improvement.<br />
+<br />Parent involvement is essential to our improvement efforts. We invite you to participate in the following ways: ensure regular attendance, monitor homework, communicate regularly with your child's teachers, talk with your child about school and homework, volunteer for school and district parent groups or school  activities such as sports, field trips, registration, and other school functions.  For more information about how you can get involved, please contact Michele Widmier, Principal at East Minico Middle School, 436-3178.<br />
+<br />
+Sincerely,<br />
+<br />
+Michele Widmier, Principal<br />
+East Minico Middle School</p>
